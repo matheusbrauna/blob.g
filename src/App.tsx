@@ -1,3 +1,5 @@
+import { Header } from './components/commons/Header'
+
 export function App() {
-  return <h1>Ready to code</h1>
+  return <Header />
 }
