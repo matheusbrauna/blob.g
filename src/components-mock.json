@@ -1,0 +1,13 @@
+{
+  "verticalCards": [
+    {
+      "title": "Vertical Card",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab hic sequi nemo deserunt laudantium id veritatis, nostrum aperiam, deleniti commodi atque soluta obcaecati earum quod! Tenetur modi error at libero.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1657299170240-a1f811379b57?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "alt": "Pessoas comendo"
+      },
+      "publishedDate": "012 de ago. 2022"
+    }
+  ]
+}
